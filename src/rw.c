@@ -8,9 +8,6 @@
 
 #include "rw.h"
 
-int n_machines;
-int port;
-
 int FLAG_OPENED_EMPTY_FILE;
 int FLAG_TRUNCATE;
 
